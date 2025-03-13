@@ -1,0 +1,17 @@
+{
+    "name": "UINavigation.Runtime",
+    "rootNamespace": "UINavigation.Runtime",
+    "references": [
+        "GUID:7876b8807c8828c45afbf7f542d3fedf",
+        "GUID:69154844e57eec446aa5cf54447e2295"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,25 @@
+{
+    "name": "AI.Runtime",
+    "rootNamespace": "AI.Runtime",
+    "references": [
+        "GUID:7876b8807c8828c45afbf7f542d3fedf",
+        "GUID:30817c1a0e6d646d99c048fc403f5979",
+        "GUID:1b8d6ce73f43fbe4686f287a024a9117",
+        "GUID:dcf41c1dd550dbe48bee03f6cbe4b004",
+        "GUID:4f63552c1ede11e4ab77f2333ea32f7f",
+        "GUID:ac59a97dad89ebf418d5bcfbfa30b938",
+        "GUID:de56091d8a540d044aa20cbf2bfa1e15",
+        "GUID:2289059ddf1745b4d80a0f184af99d6b",
+        "GUID:20dd1561bdc2f734da18c2ed8b4b6c2c",
+        "GUID:66c2eb417c67ad849907d0769db96dbf"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

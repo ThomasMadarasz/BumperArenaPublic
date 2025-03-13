@@ -1,0 +1,29 @@
+{
+    "name": "Networking.Runtime",
+    "rootNamespace": "Networking.Runtime",
+    "references": [
+        "GUID:30817c1a0e6d646d99c048fc403f5979",
+        "GUID:68bd7fdb68ef2684e982e8a9825b18a5",
+        "GUID:36ebf926e8ad9f84fa0dcc0bf8bf2f35",
+        "GUID:dcf41c1dd550dbe48bee03f6cbe4b004",
+        "GUID:8271a18768535f24890cae3f5ad07763",
+        "GUID:7876b8807c8828c45afbf7f542d3fedf",
+        "GUID:b58f7ae92de06414d9e807fa1ce56aad",
+        "GUID:1b8d6ce73f43fbe4686f287a024a9117",
+        "GUID:3b35c227fe78a344fa0892db0a4cbed0",
+        "GUID:1cf8f263ef67e224d848003e2a8d2a39",
+        "GUID:5efec38dd130a6647b6875d7c8e37289",
+        "GUID:ac64cf4432923bb41a89110f3804d4a3",
+        "GUID:46d654803e95b3a419f6b42723e4b05b",
+        "GUID:8c32fedba9f268a4cbacf4760cc07da3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

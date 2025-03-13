@@ -1,0 +1,19 @@
+{
+    "name": "Internal.Importer",
+    "rootNamespace": "Internal.Importer",
+    "references": [
+        "GUID:3ebd7bcb534412e4c8999387e8d1cec7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "WindowsStandalone32",
+        "WindowsStandalone64"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

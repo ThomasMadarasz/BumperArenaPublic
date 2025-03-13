@@ -1,0 +1,17 @@
+{
+    "name": "DeviceHelper.Runtime",
+    "rootNamespace": "DeviceHelper.Runtime",
+    "references": [
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:1cf8f263ef67e224d848003e2a8d2a39"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

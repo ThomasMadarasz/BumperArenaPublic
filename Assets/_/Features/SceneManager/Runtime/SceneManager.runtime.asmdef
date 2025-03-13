@@ -1,0 +1,18 @@
+{
+    "name": "SceneManager.runtime",
+    "rootNamespace": "SceneManager.runtime",
+    "references": [
+        "GUID:dcf41c1dd550dbe48bee03f6cbe4b004",
+        "GUID:7876b8807c8828c45afbf7f542d3fedf",
+        "GUID:3b35c227fe78a344fa0892db0a4cbed0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

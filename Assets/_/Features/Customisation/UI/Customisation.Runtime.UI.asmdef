@@ -1,0 +1,25 @@
+{
+    "name": "Customisation.Runtime.UI",
+    "rootNamespace": "Customisation.Runtime.UI",
+    "references": [
+        "GUID:7876b8807c8828c45afbf7f542d3fedf",
+        "GUID:6979b417aa959a3448ce2672ffebe07d",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:573d04cb3465b334b864405ed657213f",
+        "GUID:46d654803e95b3a419f6b42723e4b05b",
+        "GUID:36a632a8ab003f9479b39c2a63d98348",
+        "GUID:36ebf926e8ad9f84fa0dcc0bf8bf2f35",
+        "GUID:6e4782808b49aed4b8b01888b0ca02d1",
+        "GUID:1cf8f263ef67e224d848003e2a8d2a39",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

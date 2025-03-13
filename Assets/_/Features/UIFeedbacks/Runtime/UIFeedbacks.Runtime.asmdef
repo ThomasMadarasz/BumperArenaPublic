@@ -1,0 +1,17 @@
+{
+    "name": "UIFeedbacks.Runtime",
+    "rootNamespace": "UIFeedbacks.Runtime",
+    "references": [
+        "GUID:8087d854c1f812e4b9a74437dfc524e0",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

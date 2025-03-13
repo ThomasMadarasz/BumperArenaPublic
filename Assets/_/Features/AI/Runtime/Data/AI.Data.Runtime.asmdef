@@ -1,0 +1,16 @@
+{
+    "name": "AI.Data.Runtime",
+    "rootNamespace": "AI.Data.Runtime",
+    "references": [
+        "GUID:3b35c227fe78a344fa0892db0a4cbed0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

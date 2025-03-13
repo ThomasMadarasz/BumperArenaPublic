@@ -1,0 +1,16 @@
+{
+    "name": "Data.Runtime",
+    "rootNamespace": "Data.Runtime",
+    "references": [
+        "GUID:1cf8f263ef67e224d848003e2a8d2a39"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

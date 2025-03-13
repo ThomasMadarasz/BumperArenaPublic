@@ -1,0 +1,25 @@
+{
+    "name": "PlayerTaskes.Runtime",
+    "rootNamespace": "PlayerTaskes.Runtime",
+    "references": [
+        "GUID:2289059ddf1745b4d80a0f184af99d6b",
+        "GUID:66c2eb417c67ad849907d0769db96dbf",
+        "GUID:ac59a97dad89ebf418d5bcfbfa30b938",
+        "GUID:3b35c227fe78a344fa0892db0a4cbed0",
+        "GUID:3f56e61c11a28064ea0442c9d4f1b853",
+        "GUID:7876b8807c8828c45afbf7f542d3fedf",
+        "GUID:30817c1a0e6d646d99c048fc403f5979",
+        "GUID:1b8d6ce73f43fbe4686f287a024a9117",
+        "GUID:20dd1561bdc2f734da18c2ed8b4b6c2c",
+        "GUID:de56091d8a540d044aa20cbf2bfa1e15"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

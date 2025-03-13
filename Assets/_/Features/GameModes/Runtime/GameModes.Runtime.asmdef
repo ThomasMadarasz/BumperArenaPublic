@@ -1,0 +1,25 @@
+{
+    "name": "GameModes.Runtime",
+    "rootNamespace": "GameModes.Runtime",
+    "references": [
+        "GUID:dcf41c1dd550dbe48bee03f6cbe4b004",
+        "GUID:7876b8807c8828c45afbf7f542d3fedf",
+        "GUID:b58f7ae92de06414d9e807fa1ce56aad",
+        "GUID:1cf8f263ef67e224d848003e2a8d2a39",
+        "GUID:1b8d6ce73f43fbe4686f287a024a9117",
+        "GUID:30817c1a0e6d646d99c048fc403f5979",
+        "GUID:3b35c227fe78a344fa0892db0a4cbed0",
+        "GUID:c007b453ded2c194e90c3541e5bdae6a",
+        "GUID:18de5122255853b418ac032e354b11f1",
+        "GUID:4efe8cf0a3095104e968cc7764336d01"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
