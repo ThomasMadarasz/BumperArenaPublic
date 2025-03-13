@@ -1,0 +1,527 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: AllTexts Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: AllTexts
+  m_TableCollectionNameGuidString: 094237f5fa4bd1342b8f7ec538e63f6f
+  m_Entries:
+  - m_Id: 10620432384
+    m_Key: Controller Experience
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140455112704
+    m_Key: Press any button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277734682624
+    m_Key: Language selection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4068592775168
+    m_Key: World
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4081603506176
+    m_Key: Vehicle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4266941411328
+    m_Key: Select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4482713186304
+    m_Key: Test
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7695734599680
+    m_Key: News
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8521572085760
+    m_Key: Manage players and controllers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8960002682880
+    m_Key: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9021222744064
+    m_Key: Create group
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9135043571712
+    m_Key: Join group
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9551428907008
+    m_Key: Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9590150721536
+    m_Key: Open
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10059912769536
+    m_Key: Change controller orientation mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11524286902272
+    m_Key: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12299369115648
+    m_Key: Bumper Cars
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12415400341504
+    m_Key: Characters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12457012031488
+    m_Key: Animations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26091226329088
+    m_Key: Color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26296420069376
+    m_Key: Rotation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27050656591872
+    m_Key: Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27353921548288
+    m_Key: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27397370343424
+    m_Key: Video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27481306755072
+    m_Key: Languages
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27649238298624
+    m_Key: Master volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28684224753664
+    m_Key: Music volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29405510823936
+    m_Key: SFX volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29642170232832
+    m_Key: Resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29707282608128
+    m_Key: Display Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30516766502912
+    m_Key: Fullscreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30910234161152
+    m_Key: Windowed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30955050299392
+    m_Key: Borderless windowed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31724323401728
+    m_Key: Quality
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31785409245184
+    m_Key: In-game UI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32068520570880
+    m_Key: Pseudo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32142055108608
+    m_Key: Number
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32443482959872
+    m_Key: None
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32501062365184
+    m_Key: Screen shake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32800065908736
+    m_Key: Enable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33103024680960
+    m_Key: Disable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34429586567168
+    m_Key: Players manager
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35402375688192
+    m_Key: Controller orientation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35953884721152
+    m_Key: Rumble
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36763754491904
+    m_Key: Make sure everyone is ready
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37121499262976
+    m_Key: Join / Interact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37156513312768
+    m_Key: Remove Player
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37187182063616
+    m_Key: Quit Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37207474106368
+    m_Key: Reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37815983730688
+    m_Key: Validate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316754384101376
+    m_Key: Need help?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7991493558771712
+    m_Key: Are you sure you want to quit?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7993105870200832
+    m_Key: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7993135066750976
+    m_Key: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7993646276911104
+    m_Key: On
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7994991889326080
+    m_Key: Off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7995676001280000
+    m_Key: Frame rate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7998276306182144
+    m_Key: Groups list
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7998604401418240
+    m_Key: Refresh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7999916669116416
+    m_Key: Manage players
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8000074983120896
+    m_Key: Invite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8000715176517632
+    m_Key: Private
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8000793299623936
+    m_Key: Friends only
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8000867710771200
+    m_Key: Public
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8000963680641024
+    m_Key: Group types
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8003743984099328
+    m_Key: Ready
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8004176228098048
+    m_Key: Kick
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8004269916266496
+    m_Key: Allow friend invitation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8005150028046336
+    m_Key: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8005676492890112
+    m_Key: Arena choice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8006024628510720
+    m_Key: Air hockey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8006220481536000
+    m_Key: Deathmatch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8006517652168704
+    m_Key: Capture the flag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8006602209337344
+    m_Key: Race
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8006681469100032
+    m_Key: Crown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8006930157772800
+    m_Key: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8007023548145664
+    m_Key: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8007106079465472
+    m_Key: Main menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8007284417077248
+    m_Key: 'Are you sure you want to leave?
+
+      You won''t be able to join this
+      party again'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13349307120353280
+    m_Key: Unlimited
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21034280782659584
+    m_Key: HowToPlay_CTF
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21034333026910208
+    m_Key: HowToPlay_Deathmatch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21034366304518144
+    m_Key: HowToPlay_Crown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21034384855924736
+    m_Key: HowToPlay_Race
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21034399124946944
+    m_Key: HowToPlay_Hockey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21329065984655360
+    m_Key: PlayerNumberKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22754648346066944
+    m_Key: Remaining Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22754789027217408
+    m_Key: Overtime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25685907522543616
+    m_Key: Keyboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25685939705438208
+    m_Key: Playstation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25685965877895168
+    m_Key: Xbox
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25688586428702720
+    m_Key: UI display style
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25713622050275328
+    m_Key: Switch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25714779502018560
+    m_Key: Leave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094362849374208
+    m_Key: Add players
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26098255373201408
+    m_Key: Play solo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26429637442072576
+    m_Key: Start Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26406165506686976
+    m_Key: PlayerNumberKey_AI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26462060169134080
+    m_Key: Loading
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27506581984903168
+    m_Key: Start Round
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27543722869784576
+    m_Key: Vote
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27845295449047040
+    m_Key: StartupTxt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27852802087190528
+    m_Key: ScoreBoard_Alt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27837572026134528
+    m_Key: Steer your car
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27837946212577280
+    m_Key: Boost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27838292448178176
+    m_Key: W
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27839098631155712
+    m_Key: A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27839254877368320
+    m_Key: S
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27839567034249216
+    m_Key: D
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27852890840690688
+    m_Key: Show Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27852997346652160
+    m_Key: Show Mini-game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27863493191925760
+    m_Key: Saturation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27865256720596992
+    m_Key: PostExposure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27865258889052160
+    m_Key: Contrast
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30720485039628288
+    m_Key: HowToPlay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30723991473577984
+    m_Key: TurnPage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31159207439368192
+    m_Key: Team
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31472573457358848
+    m_Key: Game Purpose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31474556805308416
+    m_Key: Movements World
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31474645992988672
+    m_Key: Boosts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31474905473605632
+    m_Key: Respawn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31479909491077120
+    m_Key: Mini-game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33292617230974976
+    m_Key: Movements Vehicle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33647745662320640
+    m_Key: Reach 20 points
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1238113962887479305
+  references:
+    version: 2
+    RefIds:
+    - rid: 1238113962887479305
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1680612242144

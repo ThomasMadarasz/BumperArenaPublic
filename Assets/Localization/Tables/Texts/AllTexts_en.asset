@@ -1,0 +1,553 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: AllTexts_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 094237f5fa4bd1342b8f7ec538e63f6f, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 10620432384
+    m_Localized: Better experience with a controller
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140455112704
+    m_Localized: Press any button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277734682624
+    m_Localized: Language selection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4068592775168
+    m_Localized: World
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4081603506176
+    m_Localized: Vehicle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4266941411328
+    m_Localized: Select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4482713186304
+    m_Localized: Test
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7695734599680
+    m_Localized: Latest Devlog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27353921548288
+    m_Localized: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8521572085760
+    m_Localized: Manage players and controllers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8960002682880
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9021222744064
+    m_Localized: Create group
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9135043571712
+    m_Localized: Join group
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9551428907008
+    m_Localized: Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9590150721536
+    m_Localized: Open
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27050656591872
+    m_Localized: Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10059912769536
+    m_Localized: Change controller orientation mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11524286902272
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12299369115648
+    m_Localized: Bumper Cars
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12415400341504
+    m_Localized: Characters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12457012031488
+    m_Localized: Animations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26091226329088
+    m_Localized: Color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26296420069376
+    m_Localized: Rotation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27397370343424
+    m_Localized: Video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27481306755072
+    m_Localized: Languages
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27649238298624
+    m_Localized: Master volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28684224753664
+    m_Localized: Music volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29405510823936
+    m_Localized: Sound effects volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29642170232832
+    m_Localized: Resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29707282608128
+    m_Localized: Display mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30516766502912
+    m_Localized: Fullscreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30910234161152
+    m_Localized: Windowed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30955050299392
+    m_Localized: Borderless windowed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31724323401728
+    m_Localized: Quality
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31785409245184
+    m_Localized: In-game UI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32068520570880
+    m_Localized: Pseudo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32142055108608
+    m_Localized: Number
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32443482959872
+    m_Localized: None
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32501062365184
+    m_Localized: Screen shake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32800065908736
+    m_Localized: Enable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33103024680960
+    m_Localized: Disable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34429586567168
+    m_Localized: Players manager
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35402375688192
+    m_Localized: Controller orientation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35953884721152
+    m_Localized: Rumble (Gamepad)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36763754491904
+    m_Localized: Make sure everyone is ready before validating
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37121499262976
+    m_Localized: Join / Interact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37156513312768
+    m_Localized: Remove Player
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37207474106368
+    m_Localized: Reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37815983730688
+    m_Localized: Close and validate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316754384101376
+    m_Localized: Need help?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37187182063616
+    m_Localized: Quit Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7991493558771712
+    m_Localized: Are you sure you want to quit the game?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7993105870200832
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7993135066750976
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7993646276911104
+    m_Localized: On
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7994991889326080
+    m_Localized: Off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7995676001280000
+    m_Localized: Frame rate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7998276306182144
+    m_Localized: Groups list
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7998604401418240
+    m_Localized: Refresh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7999916669116416
+    m_Localized: Manage players
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8000074983120896
+    m_Localized: Invite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8000715176517632
+    m_Localized: Private
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8000793299623936
+    m_Localized: Friends
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8000867710771200
+    m_Localized: Public
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8000963680641024
+    m_Localized: 'Group types : '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8003743984099328
+    m_Localized: Ready
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8004176228098048
+    m_Localized: Kick
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8004269916266496
+    m_Localized: Allow friend invitation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8005150028046336
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8005676492890112
+    m_Localized: Arena choice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8006024628510720
+    m_Localized: Air hockey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8006220481536000
+    m_Localized: Deathmatch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8006517652168704
+    m_Localized: Capture the flag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8006602209337344
+    m_Localized: Race
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8006681469100032
+    m_Localized: Crown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8006930157772800
+    m_Localized: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8007023548145664
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8007106079465472
+    m_Localized: Main menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8007284417077248
+    m_Localized: 'Are you sure you want to leave?
+
+      You won''t be able to join
+      this party again'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13349307120353280
+    m_Localized: Unlimited
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21034399124946944
+    m_Localized: "DUO MODE\n\nWork with your teammate to push the puck into the opponent's
+      goal! \n\nThe team with the most points at the end of the time limit wins the
+      round!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21034384855924736
+    m_Localized: Race en
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21034366304518144
+    m_Localized: "SOLO MODE\n\nGo for the crown and keep it to earn points! \n\nWhen
+      you've got it, try to dodge opponents. \n\nIf you don't, hit the owner to steal
+      it! \n\nFirst player to 20 points wins the round!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21034333026910208
+    m_Localized: "SOLO MODE\n\nPropel your opponents into the traps to win points!
+      \n\nThe player with the highest score at the end of the time limit wins the
+      round! \n\nYou can't lose any points!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21034280782659584
+    m_Localized: "DUO MODE\n\nWork with your teammate to capture the opponent's flag
+      and bring it back to your flag base! \n\nPlease note: if your flag is not at
+      its base, you won't be able to score any points. \n\nIf an opponent has your
+      flag, hit him to make him lose it. \n\nIf two flag-holders clash, neither will
+      lose it. \n\nIn this case, push him into a trap!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21329065984655360
+    m_Localized: P
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22754648346066944
+    m_Localized: Remaining Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22754789027217408
+    m_Localized: Overtime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25685907522543616
+    m_Localized: Keyboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25685939705438208
+    m_Localized: Playstation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25685965877895168
+    m_Localized: Xbox
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25688586428702720
+    m_Localized: UI display style
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25713622050275328
+    m_Localized: Switch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25714779502018560
+    m_Localized: Leave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094362849374208
+    m_Localized: Add players
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26098255373201408
+    m_Localized: Play solo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26429637442072576
+    m_Localized: Start Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26406165506686976
+    m_Localized: AI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26462060169134080
+    m_Localized: Loading
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27506581984903168
+    m_Localized: Start Round
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27543722869784576
+    m_Localized: Vote
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27845295449047040
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27852802087190528
+    m_Localized: First to 20 wins it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27837572026134528
+    m_Localized: Steer your car
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27837946212577280
+    m_Localized: Boost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27838292448178176
+    m_Localized: W
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27839098631155712
+    m_Localized: A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27839254877368320
+    m_Localized: S
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27839567034249216
+    m_Localized: D
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27852890840690688
+    m_Localized: Show Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27852997346652160
+    m_Localized: Show Mini-game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27863493191925760
+    m_Localized: Saturation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27865256720596992
+    m_Localized: Brightness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27865258889052160
+    m_Localized: Contrast
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30720485039628288
+    m_Localized: How to play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30723991473577984
+    m_Localized: Turn page
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31159207439368192
+    m_Localized: Team
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31472573457358848
+    m_Localized: "GAME PURPOSE\n\nBumper Arena is a party game in which you take
+      on your opponents in a variety of mini-games. \n\nEach round is played in an
+      arena. The first player to score three, wins the game! \n\nBut don't panic:
+      even if you're losing, you can make up for it by winning several rounds in
+      a row, and get back into the competition!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31474556805308416
+    m_Localized: "MOVEMENTS\n\nYour vehicle is constantly moving forward, and you
+      can't brake or stop. \n\nTwo ways of controlling your vehicle are available:\n\n-
+      World Control: the vehicle moves in the direction or points the joystick.\n\n-
+      Vehicle Control: the vehicle moves left or right according to his own rotation.\n\nIn
+      the video, the player is currently using the World Control. \nWait a few seconds
+      to see the Vehicle Control."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31474645992988672
+    m_Localized: "BOOSTS\n\nYou can have up to 3 boosts. These are indicated by lightning
+      bolts below your vehicle. \n\nBy pressing your boost input : \nA (Xbox), X
+      (Playstation) or Space (Keyboard), \nyour bumper car performs a forward rush.
+      \n\nWhen you've run out of boost, head to an energy platform to recover some.
+      \n\nPlatforms with one lightning bolt will give you back one charge, while
+      those with three bolts will restore you to your maximum gauge!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31474905473605632
+    m_Localized: "RESPAWN\n\nWhen you're inside a door, you can accelerate the speed
+      at which you reappear.\n \nTo do this, hold down the boost input: \nA (Xbox),
+      X (Playstation) or Space (Keyboard)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31479909491077120
+    m_Localized: Mini-game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33292617230974976
+    m_Localized: "MOVEMENTS\n\nYour vehicle is constantly moving forward, and you
+      can't brake or stop. \n\nTwo ways of controlling your vehicle are available:\n\n-
+      World control: the vehicle moves in the direction or points the joystick.\n\n-
+      Vehicle control: the vehicle moves left or right according to his own rotation.\n\nIn
+      the video, the player is currently using the Vehicle Control. \nWait a few
+      seconds to see the World Control."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33647745662320640
+    m_Localized: Reach 20 points
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

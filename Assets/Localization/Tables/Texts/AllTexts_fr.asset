@@ -1,0 +1,559 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: AllTexts_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 094237f5fa4bd1342b8f7ec538e63f6f, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 10620432384
+    m_Localized: "Meilleure exp\xE9rience avec une manette"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140455112704
+    m_Localized: Appuyer sur n'importe quel bouton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277734682624
+    m_Localized: Choix de la langue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4068592775168
+    m_Localized: Monde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4081603506176
+    m_Localized: "V\xE9hicule"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4266941411328
+    m_Localized: "S\xE9lectionner"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4482713186304
+    m_Localized: Tester
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7695734599680
+    m_Localized: Dernier Devlog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27353921548288
+    m_Localized: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8521572085760
+    m_Localized: "G\xE9rer les joueurs et les contr\xF4leurs"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8960002682880
+    m_Localized: Jouer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9021222744064
+    m_Localized: "Cr\xE9er un groupe"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9135043571712
+    m_Localized: Rejoindre un groupe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9551428907008
+    m_Localized: Niveau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9590150721536
+    m_Localized: Ouvrir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27050656591872
+    m_Localized: "Contr\xF4les"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10059912769536
+    m_Localized: "Changer le mode d'orientation du contr\xF4leur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11524286902272
+    m_Localized: Retour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12299369115648
+    m_Localized: Auto-tamponneuses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12415400341504
+    m_Localized: Personnages
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12457012031488
+    m_Localized: Animations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26091226329088
+    m_Localized: Couleur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26296420069376
+    m_Localized: Rotation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27397370343424
+    m_Localized: "Vid\xE9o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27481306755072
+    m_Localized: Langues
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27649238298624
+    m_Localized: "Volume g\xE9n\xE9ral"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28684224753664
+    m_Localized: Volume de la musique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29405510823936
+    m_Localized: "Volume des effets sp\xE9ciaux"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29642170232832
+    m_Localized: "R\xE9solution"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29707282608128
+    m_Localized: Mode d'affichage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30516766502912
+    m_Localized: "Plein \xE9cran"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30910234161152
+    m_Localized: "Fen\xEAtr\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30955050299392
+    m_Localized: "Fen\xEAtr\xE9 sans bords"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31724323401728
+    m_Localized: "Qualit\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31785409245184
+    m_Localized: Interface utilisateur en jeu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32068520570880
+    m_Localized: Pseudo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32142055108608
+    m_Localized: "Num\xE9ro"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32443482959872
+    m_Localized: Rien
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32501062365184
+    m_Localized: "Tremblements d'\xE9cran"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32800065908736
+    m_Localized: "Activ\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33103024680960
+    m_Localized: "D\xE9sactiv\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34429586567168
+    m_Localized: Gestionnaire des joueurs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35402375688192
+    m_Localized: "Orientation du contr\xF4leur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35953884721152
+    m_Localized: Vibrations (Manette)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36763754491904
+    m_Localized: "Assurez-vous que tout le monde soit pr\xEAt avant de valider"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37121499262976
+    m_Localized: Rejoindre / Interagir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37156513312768
+    m_Localized: Retirer le joueur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37207474106368
+    m_Localized: "R\xE9initialiser"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37815983730688
+    m_Localized: Fermer et valider
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316754384101376
+    m_Localized: Besoin d'aide ?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37187182063616
+    m_Localized: Quitter le jeu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7991493558771712
+    m_Localized: "\xCAtes-vous certain de vouloir quitter le jeu?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7993105870200832
+    m_Localized: Oui
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7993135066750976
+    m_Localized: Non
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7993646276911104
+    m_Localized: "Activ\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7994991889326080
+    m_Localized: "D\xE9sactiv\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7995676001280000
+    m_Localized: "Taux de rafra\xEEchissement"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7998276306182144
+    m_Localized: Liste des groupes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7998604401418240
+    m_Localized: "Rafra\xEEchir"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7999916669116416
+    m_Localized: "G\xE9rer les joueurs"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8000074983120896
+    m_Localized: Inviter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8000715176517632
+    m_Localized: "Priv\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8000793299623936
+    m_Localized: Amis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8000867710771200
+    m_Localized: Public
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8000963680641024
+    m_Localized: 'Types de groupe :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8003743984099328
+    m_Localized: "Pr\xEAt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8004176228098048
+    m_Localized: Expulser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8004269916266496
+    m_Localized: Autoriser les invitations d'amis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8005150028046336
+    m_Localized: Commencer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8005676492890112
+    m_Localized: "Choix de l'ar\xE8ne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8006024628510720
+    m_Localized: Air hockey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8006220481536000
+    m_Localized: "Match \xE0 mort"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8006517652168704
+    m_Localized: Capture de drapeau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8006602209337344
+    m_Localized: Course
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8006681469100032
+    m_Localized: Couronne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8006930157772800
+    m_Localized: Reprendre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8007023548145664
+    m_Localized: "Param\xE8tres"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8007106079465472
+    m_Localized: Menu principal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8007284417077248
+    m_Localized: "\xCAtes-vous certain de vouloir quitter la partie?\nVous ne serez
+      plus en mesure de la rejoindre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13349307120353280
+    m_Localized: "Illimit\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21034399124946944
+    m_Localized: "MODE DUO\n\nCollaborez en \xE9quipe de deux pour pousser le palet
+      dans le but adverse ! \n\nL'\xE9quipe avec le plus de points \xE0 la fin du
+      temps imparti remporte la manche !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21034384855924736
+    m_Localized: Race fr
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21034366304518144
+    m_Localized: "MODE SOLO\n\nFoncez vers la couronne et conservez-la pour gagner
+      des points ! \n\nLorsque vous l'avez en votre possession, tentez d'esquiver
+      les adversaires. \n\nDans le cas contraire, heurtez son possesseur pour lui
+      voler ! \n\nLe premier joueur \xE0 20 points remporte la manche !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21034333026910208
+    m_Localized: "MODE SOLO\n\nPropulsez vos adversaires dans les pi\xE8ges pour
+      gagner des points ! \n\nLe joueur avec le meilleur score \xE0 la fin du temps
+      imparti remporte la manche ! \n\nVous ne pouvez pas perdre de points !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21034280782659584
+    m_Localized: "MODE DUO\n\nCollaborez en \xE9quipe de deux afin de vous emparer
+      du drapeau adverse et rapportez-le \xE0 votre socle de drapeau ! \n\nAttention,
+      si votre drapeau n\u2019est pas sur son socle, vous ne pourrez pas marquer
+      de points. \n\nSi un adversaire poss\xE8de votre drapeau, heurtez le pour le
+      lui faire perdre. \n\nSi deux d\xE9tenteurs de drapeau s\u2019entrechoquent,
+      aucun des deux ne le perdra. \n\nDans ce cas, poussez-le dans un pi\xE8ge !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21329065984655360
+    m_Localized: J
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22754648346066944
+    m_Localized: Temps restant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22754789027217408
+    m_Localized: Prolongations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25713622050275328
+    m_Localized: Changer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25714779502018560
+    m_Localized: Quitter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25685907522543616
+    m_Localized: Clavier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25685939705438208
+    m_Localized: Playstation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25685965877895168
+    m_Localized: Xbox
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25688586428702720
+    m_Localized: Style d'affichage interface
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094362849374208
+    m_Localized: Ajouter des joueurs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26098255373201408
+    m_Localized: Jouer seul
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26429637442072576
+    m_Localized: "D\xE9marrer la partie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26406165506686976
+    m_Localized: IA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26462060169134080
+    m_Localized: Chargement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27506581984903168
+    m_Localized: Commencer la manche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27543722869784576
+    m_Localized: Voter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27845295449047040
+    m_Localized: Commencer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27852802087190528
+    m_Localized: "Le premier \xE0 20 gagne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27837572026134528
+    m_Localized: Dirigez votre voiture
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27837946212577280
+    m_Localized: Boost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27838292448178176
+    m_Localized: Z
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27839098631155712
+    m_Localized: Q
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27839254877368320
+    m_Localized: S
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27839567034249216
+    m_Localized: D
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27852890840690688
+    m_Localized: "Montrer les contr\xF4les"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27852997346652160
+    m_Localized: Montrer le mini-jeu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27863493191925760
+    m_Localized: Saturation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27865256720596992
+    m_Localized: "Luminosit\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27865258889052160
+    m_Localized: Contraste
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30720485039628288
+    m_Localized: Comment jouer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30723991473577984
+    m_Localized: Tourner la page
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31159207439368192
+    m_Localized: Equipe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31472573457358848
+    m_Localized: "BUT DU JEU\n\r\nBumper Arena est un party-game dans lequel vous
+      affrontez vos adversaires sur diff\xE9rents mini-jeux. \n\nChaque manche se
+      dispute dans une ar\xE8ne. Le premier \xE0 avoir trois victoires, remporte
+      la partie! \n\nPas de panique, m\xEAme si vous encha\xEEnez les d\xE9faites,
+      vous pouvez vous rattraper en gagnant plusieurs manches d'affil\xE9e, et ainsi
+      revenir dans la comp\xE9tition!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31474556805308416
+    m_Localized: "DEPLACEMENTS\n\r\nVotre v\xE9hicule avance constamment vers l\u2019avant,
+      vous ne pouvez ni freiner ni vous arr\xEAter. \n\nDeux mani\xE8res de contr\xF4ler
+      son v\xE9hicule sont disponibles :\r\n\r\n- Contr\xF4le Monde : le v\xE9hicule
+      se d\xE9place dans la direction ou pointe le joystick.\r\n\n- Contr\xF4le V\xE9hicule
+      : le v\xE9hicule se d\xE9place \xE0 gauche ou \xE0 droite selon sa propre rotation.\n\nDans
+      la vid\xE9o, le joueur utilise actuellement le Contr\xF4le Monde. Attendez
+      quelques secondes pour voir le Contr\xF4le V\xE9hicule."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31474645992988672
+    m_Localized: "BOOSTS\n\r\nVous poss\xE9dez jusqu\u2019\xE0 un maximum de 3 boosts.
+      Ceux-ci sont indiqu\xE9s par des \xE9clairs en dessous de votre v\xE9hicule.
+      \n\nEn appuyant sur votre input de boost : \nA (Xbox), X (Playstation) ou Espace
+      (Clavier), \nvotre auto-tamponneuse effectue une ru\xE9e vers l\u2019avant.
+      \n\nLorsque vous n\u2019avez plus de boost, dirigez-vous vers une plateforme
+      de boost pour en r\xE9cup\xE9rer.\n\nLes plateformes avec un \xE9clair vous
+      rendront une charge, l\xE0 o\xF9 celle avec trois \xE9clairs vous remettra
+      au maximum de votre jauge!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31474905473605632
+    m_Localized: "RESPAWN\n\r\nLorsque vous \xEAtes \xE0 l'int\xE9rieur d'une porte,
+      vous pouvez acc\xE9l\xE9rer la vitesse \xE0 laquelle vous r\xE9apparaissez.
+      \n\nPour ce faire, vous devez maintenir enfonc\xE9e l'input de boost : \nA
+      (Xbox), X (Playstation) ou Espace (Clavier)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31479909491077120
+    m_Localized: Mini-jeu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33292617230974976
+    m_Localized: "DEPLACEMENTS\n\r\nVotre v\xE9hicule avance constamment vers l\u2019avant,
+      vous ne pouvez ni freiner ni vous arr\xEAter. \n\nDeux mani\xE8res de contr\xF4ler
+      son v\xE9hicule sont disponibles :\r\n\n- Contr\xF4le Monde : le v\xE9hicule
+      se d\xE9place dans la direction ou pointe le joystick.\r\n\n- Contr\xF4le V\xE9hicule
+      : le v\xE9hicule se d\xE9place \xE0 gauche ou \xE0 droite selon sa propre rotation.\n\nDans
+      la vid\xE9o, le joueur utilise actuellement le Contr\xF4le V\xE9hicule. Attendez
+      quelques secondes pour voir le Contr\xF4le Monde."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33647745662320640
+    m_Localized: Atteignez 20 points
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
