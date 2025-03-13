@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/_/Database/Prefabs/Player/pref_localPlayer.prefab.meta
+guid: 48f538257b5934c41b98557a0105d230
+========
+guid: ed3d423146186ac44a0b770263f82812
+>>>>>>>> e3015812009b23338a5d77131cdb59ea445c0d19:Assets/_/Database/Prefabs/pref_PlayerInGame.prefab.meta
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

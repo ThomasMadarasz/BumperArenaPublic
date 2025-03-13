@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600b90d20ac3e5c4ba3904761d3f7000, type: 3}
+  m_Name: ModeDataFinal
+  m_EditorClassIdentifier: 
+  m_gameModesData:
+  - m_logicIndex: 0
+    m_name: Deathmatch
+    m_maps:
+    - m_logicIndex: 0
+      m_logicName: LD_DM_Factory_Zap
+      m_displayName: Zap
+      m_votingImage: {fileID: 21300000, guid: 3e4bfd313e6aedb4ca7a6ab9a5bfd1fc, type: 3}
+      m_backgroundImage: {fileID: 21300000, guid: 3e4bfd313e6aedb4ca7a6ab9a5bfd1fc, type: 3}
+    - m_logicIndex: 1
+      m_logicName: LD_DM_Galaxy_Planetarium
+      m_displayName: Gravitron
+      m_votingImage: {fileID: 21300000, guid: 1e4eec4b0acff3542ab1705353fb3906, type: 3}
+      m_backgroundImage: {fileID: 21300000, guid: 1e4eec4b0acff3542ab1705353fb3906, type: 3}
+    - m_logicIndex: 2
+      m_logicName: LD_DM_RooftopArena_Smash
+      m_displayName: Rooftop
+      m_votingImage: {fileID: 21300000, guid: 52e44c13967a960429ea507668640070, type: 3}
+      m_backgroundImage: {fileID: 21300000, guid: 52e44c13967a960429ea507668640070, type: 3}
+    - m_logicIndex: 3
+      m_logicName: LD_DM_Spaceship_TBD
+      m_displayName: Titan Ship
+      m_votingImage: {fileID: 21300000, guid: abf8680d6a88e044d96a7e77c070b845, type: 3}
+      m_backgroundImage: {fileID: 21300000, guid: abf8680d6a88e044d96a7e77c070b845, type: 3}
+    m_teamMode: 1
+    m_howToPlay: HowToPlay_Deathmatch
+    m_clip: {fileID: 32900000, guid: 55531a661567c59438a0d694d03a4045, type: 3}
+  - m_logicIndex: 1
+    m_name: Air hockey
+    m_maps:
+    - m_logicIndex: 0
+      m_logicName: LD_H_Factory_MovingWallBorder
+      m_displayName: Nucleon
+      m_votingImage: {fileID: 21300000, guid: ed4976274487f584ca06972c4e71ea3c, type: 3}
+      m_backgroundImage: {fileID: 21300000, guid: ed4976274487f584ca06972c4e71ea3c, type: 3}
+    - m_logicIndex: 1
+      m_logicName: LD_H_Galaxy_CentralVoid
+      m_displayName: Alzirr
+      m_votingImage: {fileID: 21300000, guid: cbd3a9447abced34a89824887556d3c8, type: 3}
+      m_backgroundImage: {fileID: 21300000, guid: cbd3a9447abced34a89824887556d3c8, type: 3}
+    - m_logicIndex: 2
+      m_logicName: LD_H_RooftopArena_Hammer
+      m_displayName: Horizon
+      m_votingImage: {fileID: 21300000, guid: ea29a76fdc1963e4b83c1ed9361d66d7, type: 3}
+      m_backgroundImage: {fileID: 21300000, guid: ea29a76fdc1963e4b83c1ed9361d66d7, type: 3}
+    - m_logicIndex: 3
+      m_logicName: LD_H_Spaceship_Rail_V3
+      m_displayName: Atlas
+      m_votingImage: {fileID: 21300000, guid: 560d1cd4aee3e0c4491f9b6fa8042988, type: 3}
+      m_backgroundImage: {fileID: 21300000, guid: 560d1cd4aee3e0c4491f9b6fa8042988, type: 3}
+    m_teamMode: 2
+    m_howToPlay: HowToPlay_Hockey
+    m_clip: {fileID: 32900000, guid: aea18a4b9c76aa148adeb7b084e74f56, type: 3}
+  - m_logicIndex: 2
+    m_name: Crown
+    m_maps:
+    - m_logicIndex: 0
+      m_logicName: LD_C_Factory
+      m_displayName: Magnetic
+      m_votingImage: {fileID: 21300000, guid: 4e5e4fc304dad7d4c8c5eec68fd8b1e6, type: 3}
+      m_backgroundImage: {fileID: 21300000, guid: 4e5e4fc304dad7d4c8c5eec68fd8b1e6, type: 3}
+    - m_logicIndex: 1
+      m_logicName: LD_C_GalaxyV4
+      m_displayName: Olympia
+      m_votingImage: {fileID: 21300000, guid: 313b0248ea75e964d898bd3d008cae5b, type: 3}
+      m_backgroundImage: {fileID: 21300000, guid: 313b0248ea75e964d898bd3d008cae5b, type: 3}
+    - m_logicIndex: 2
+      m_logicName: LD_C_RooftopArenaV2
+      m_displayName: Alphekka
+      m_votingImage: {fileID: 21300000, guid: 72ed5930bb5ed274ab820f481a4cbae8, type: 3}
+      m_backgroundImage: {fileID: 21300000, guid: 72ed5930bb5ed274ab820f481a4cbae8, type: 3}
+    - m_logicIndex: 3
+      m_logicName: LD_C_Spaceship
+      m_displayName: Rex Major
+      m_votingImage: {fileID: 21300000, guid: 76a22a287f3959b419070a2d212ce1a6, type: 3}
+      m_backgroundImage: {fileID: 21300000, guid: 76a22a287f3959b419070a2d212ce1a6, type: 3}
+    m_teamMode: 1
+    m_howToPlay: HowToPlay_Crown
+    m_clip: {fileID: 32900000, guid: 6532782da7cf70347b76871717e010d4, type: 3}
+  - m_logicIndex: 3
+    m_name: Capture the flag
+    m_maps:
+    - m_logicIndex: 0
+      m_logicName: LD_CTF_Factory
+      m_displayName: Zultron
+      m_votingImage: {fileID: 21300000, guid: 0fce183d0940bfd46b2b589d67cbf285, type: 3}
+      m_backgroundImage: {fileID: 21300000, guid: 0fce183d0940bfd46b2b589d67cbf285, type: 3}
+    - m_logicIndex: 1
+      m_logicName: LD_CTF_GalaxyV4
+      m_displayName: Gemini
+      m_votingImage: {fileID: 21300000, guid: af00b4e0c8a45f8478c189be9169404c, type: 3}
+      m_backgroundImage: {fileID: 21300000, guid: af00b4e0c8a45f8478c189be9169404c, type: 3}
+    - m_logicIndex: 2
+      m_logicName: LD_CTF_RooftopV4
+      m_displayName: Skyline
+      m_votingImage: {fileID: 21300000, guid: d02f99b69761b9546a441ca75f0ee1dc, type: 3}
+      m_backgroundImage: {fileID: 21300000, guid: d02f99b69761b9546a441ca75f0ee1dc, type: 3}
+    - m_logicIndex: 3
+      m_logicName: LD_CTF_Spacceship
+      m_displayName: Vulcan
+      m_votingImage: {fileID: 21300000, guid: 22bbd1615d23e634d9983373d38aa275, type: 3}
+      m_backgroundImage: {fileID: 21300000, guid: 22bbd1615d23e634d9983373d38aa275, type: 3}
+    m_teamMode: 2
+    m_howToPlay: HowToPlay_CTF
+    m_clip: {fileID: 32900000, guid: f2c1ed0087568e64d9ff450c5376894e, type: 3}

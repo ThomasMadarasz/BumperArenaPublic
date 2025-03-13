@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bbda44e20dfcb042a0104dc62394c42, type: 3}
+  m_Name: CollisionsDataNew
+  m_EditorClassIdentifier: 
+  m_forceMode: 0
+  m_power: 25
+  m_powerWithEnvironment: 20
+  m_bounceFactor: 1.7
+  m_maxPower: 100
+  m_dominantBumpFactor: 0
+  m_durationFactor: 0.023333
+  m_torqueFactor: 17

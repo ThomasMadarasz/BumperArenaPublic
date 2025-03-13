@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070c61f3f9a6054448024774e9bff69c, type: 3}
+  m_Name: Torque_SFXData
+  m_EditorClassIdentifier: 
+  _sfx:
+  - m_clip: {fileID: 8300000, guid: f85304e9e6f97d24fbb2e8005c683c22, type: 3}
+    m_volume: 0.2
+    _group: {fileID: -6123720315952312377, guid: 8ebce5be84899734b9e12723f2fc30e5, type: 2}
+  - m_clip: {fileID: 8300000, guid: 59bae294c45c62a4ba7f600697cad881, type: 3}
+    m_volume: 0.2
+    _group: {fileID: -6123720315952312377, guid: 8ebce5be84899734b9e12723f2fc30e5, type: 2}
+  - m_clip: {fileID: 8300000, guid: e4e8ee9095ef9c148bf282e08c82f4d2, type: 3}
+    m_volume: 0.2
+    _group: {fileID: -6123720315952312377, guid: 8ebce5be84899734b9e12723f2fc30e5, type: 2}

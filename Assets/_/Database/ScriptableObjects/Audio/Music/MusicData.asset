@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cc412cd0f663e9499a89f2722eb961f, type: 3}
+  m_Name: MusicData
+  m_EditorClassIdentifier: 
+  _musics:
+  - m_intro: {fileID: 8300000, guid: a70e15480e2da114b957c3f41b4b347c, type: 3}
+    m_loop: {fileID: 8300000, guid: 3718dad96a525254db29eed9bfa7cf7b, type: 3}
+    _group: {fileID: -2398549794382369751, guid: 8ebce5be84899734b9e12723f2fc30e5, type: 2}
+    m_volume: 0.4
+    m_mapName: LD_DM_Galaxy_Planetarium
+  - m_intro: {fileID: 8300000, guid: 6af36ee74e506ed4dad289f48fb4327d, type: 3}
+    m_loop: {fileID: 8300000, guid: 3d3e117e2aff95d41ba32521107341d0, type: 3}
+    _group: {fileID: -2398549794382369751, guid: 8ebce5be84899734b9e12723f2fc30e5, type: 2}
+    m_volume: 0.4
+    m_mapName: LD_C_GalaxyV4
+  - m_intro: {fileID: 8300000, guid: 6d1c9b0b1971f134c87fab3f4ab7567b, type: 3}
+    m_loop: {fileID: 8300000, guid: 46878f3a4c0d52f4193e744d3ff74c84, type: 3}
+    _group: {fileID: -2398549794382369751, guid: 8ebce5be84899734b9e12723f2fc30e5, type: 2}
+    m_volume: 0.4
+    m_mapName: LD_H_Galaxy_CentralVoid
+  - m_intro: {fileID: 8300000, guid: 22cf61e353584d648bd77eadcac1030a, type: 3}
+    m_loop: {fileID: 8300000, guid: f164c7c11deadca4aac0e4e71ed0dc9f, type: 3}
+    _group: {fileID: -2398549794382369751, guid: 8ebce5be84899734b9e12723f2fc30e5, type: 2}
+    m_volume: 0.4
+    m_mapName: LD_CTF_GalaxyV4
+  - m_intro: {fileID: 8300000, guid: c37c834232ce7534885c6c7d7fe2e87a, type: 3}
+    m_loop: {fileID: 8300000, guid: 2e7b2dadbc6622544a16322a28a2b20c, type: 3}
+    _group: {fileID: -2398549794382369751, guid: 8ebce5be84899734b9e12723f2fc30e5, type: 2}
+    m_volume: 0.4
+    m_mapName: LD_CTF_Spacceship
+  - m_intro: {fileID: 8300000, guid: a99b3502e3137694e969470241d09fde, type: 3}
+    m_loop: {fileID: 8300000, guid: 55d50d01bb421ea4babb31730329fa1b, type: 3}
+    _group: {fileID: -2398549794382369751, guid: 8ebce5be84899734b9e12723f2fc30e5, type: 2}
+    m_volume: 0.4
+    m_mapName: LD_C_Spaceship
+  - m_intro: {fileID: 8300000, guid: 9f2a0e3801d0ba54b81abc5ed9a64684, type: 3}
+    m_loop: {fileID: 8300000, guid: 91b965c143a495a42b92264869953401, type: 3}
+    _group: {fileID: -2398549794382369751, guid: 8ebce5be84899734b9e12723f2fc30e5, type: 2}
+    m_volume: 0.4
+    m_mapName: LD_H_Spaceship_Rail_V3
+  - m_intro: {fileID: 8300000, guid: 3d57187a40970d941a6bd48033134998, type: 3}
+    m_loop: {fileID: 8300000, guid: 24ceaf6f0f03d3f478522fc1357eccc2, type: 3}
+    _group: {fileID: -2398549794382369751, guid: 8ebce5be84899734b9e12723f2fc30e5, type: 2}
+    m_volume: 0.4
+    m_mapName: LD_DM_Spaceship_TBD
+  - m_intro: {fileID: 8300000, guid: 86d02c19ce6a4b84aaa857b2a599c675, type: 3}
+    m_loop: {fileID: 8300000, guid: 42cd94e07998deb4fa42ea25d2942d28, type: 3}
+    _group: {fileID: -2398549794382369751, guid: 8ebce5be84899734b9e12723f2fc30e5, type: 2}
+    m_volume: 0.4
+    m_mapName: LD_DM_RooftopArena_Smash
+  - m_intro: {fileID: 8300000, guid: 4351713e425e74a4d901b878caabfdac, type: 3}
+    m_loop: {fileID: 8300000, guid: d0401aaa0f070ca48966435921f9ea54, type: 3}
+    _group: {fileID: -2398549794382369751, guid: 8ebce5be84899734b9e12723f2fc30e5, type: 2}
+    m_volume: 0.4
+    m_mapName: LD_CTF_RooftopV4
+  - m_intro: {fileID: 8300000, guid: 61a7863bccd8a974fbb12e2bc8c49e18, type: 3}
+    m_loop: {fileID: 8300000, guid: 8655848995344fd4d90ca1cf5423c45f, type: 3}
+    _group: {fileID: -2398549794382369751, guid: 8ebce5be84899734b9e12723f2fc30e5, type: 2}
+    m_volume: 0.4
+    m_mapName: LD_H_RooftopArena_Hammer
+  - m_intro: {fileID: 8300000, guid: acbef726e96f1654eb4f05d603c82133, type: 3}
+    m_loop: {fileID: 8300000, guid: 22552cfc10d1799419f0bc8a021d33dc, type: 3}
+    _group: {fileID: -2398549794382369751, guid: 8ebce5be84899734b9e12723f2fc30e5, type: 2}
+    m_volume: 0.4
+    m_mapName: LD_C_RooftopArenaV2
+  - m_intro: {fileID: 8300000, guid: 18070b57ed3e1da498d5ccb06aa29880, type: 3}
+    m_loop: {fileID: 8300000, guid: 17f0e681380a0db4cabaf65bb6d32eca, type: 3}
+    _group: {fileID: -2398549794382369751, guid: 8ebce5be84899734b9e12723f2fc30e5, type: 2}
+    m_volume: 0.4
+    m_mapName: LD_DM_Factory_Zap
+  - m_intro: {fileID: 8300000, guid: 36d6b1eeca514fd4ba48b135b952aad1, type: 3}
+    m_loop: {fileID: 8300000, guid: 81beced386dddc94cbcaf29c97a54825, type: 3}
+    _group: {fileID: -2398549794382369751, guid: 8ebce5be84899734b9e12723f2fc30e5, type: 2}
+    m_volume: 0.4
+    m_mapName: LD_C_Factory
+  - m_intro: {fileID: 8300000, guid: 7ca69419a6595f342b092cc6727d1bfc, type: 3}
+    m_loop: {fileID: 8300000, guid: 460e14a0780845e42b1966de6e632ab1, type: 3}
+    _group: {fileID: -2398549794382369751, guid: 8ebce5be84899734b9e12723f2fc30e5, type: 2}
+    m_volume: 0.4
+    m_mapName: LD_H_Factory_MovingWallBorder
+  - m_intro: {fileID: 8300000, guid: 687a7711194092142a76eebe655742c9, type: 3}
+    m_loop: {fileID: 8300000, guid: e1a9eda2a42b6a94d9fca7b711ec7512, type: 3}
+    _group: {fileID: -2398549794382369751, guid: 8ebce5be84899734b9e12723f2fc30e5, type: 2}
+    m_volume: 0.4
+    m_mapName: LD_CTF_Factory
+  _jingle:
+    m_intro: {fileID: 8300000, guid: 30971f447e926e84680bb50c4026485c, type: 3}
+    m_loop: {fileID: 0}
+    _group: {fileID: -2398549794382369751, guid: 8ebce5be84899734b9e12723f2fc30e5, type: 2}
+    m_volume: 0.4
+    m_mapName: 

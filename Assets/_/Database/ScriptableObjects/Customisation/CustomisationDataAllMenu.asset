@@ -1,0 +1,385 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74191a10713accd41bf65301f7991bf6, type: 3}
+  m_Name: CustomisationDataAllMenu
+  m_EditorClassIdentifier: 
+  m_cars:
+  - m_type: 1
+    m_lowPoly: {fileID: 919132149155446097, guid: ccf0a7d52614f0e4aa98f94e0b5b6779, type: 3}
+    m_highPoly: {fileID: 919132149155446097, guid: ccf0a7d52614f0e4aa98f94e0b5b6779, type: 3}
+    m_sprite: {fileID: 21300000, guid: 98c244d185ad4584cbd0187aff5eb1cb, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 1
+    m_lowPoly: {fileID: 919132149155446097, guid: dc27202d7d4cdac49b1495895decb953, type: 3}
+    m_highPoly: {fileID: 919132149155446097, guid: dc27202d7d4cdac49b1495895decb953, type: 3}
+    m_sprite: {fileID: 21300000, guid: 56d107f024b568a4da6c2dbd0f46f098, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 1
+    m_lowPoly: {fileID: 919132149155446097, guid: 6b43879489a05d941b4158d7df625b51, type: 3}
+    m_highPoly: {fileID: 919132149155446097, guid: 6b43879489a05d941b4158d7df625b51, type: 3}
+    m_sprite: {fileID: 21300000, guid: 3ff5f39193c1e8c4f8b00f97c61efb42, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 1
+    m_lowPoly: {fileID: 919132149155446097, guid: b63dfe1032d99a04d9d040cdfd41adc7, type: 3}
+    m_highPoly: {fileID: 919132149155446097, guid: b63dfe1032d99a04d9d040cdfd41adc7, type: 3}
+    m_sprite: {fileID: 21300000, guid: 8f5abcd8403f05345b21647975dce65c, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 1
+    m_lowPoly: {fileID: 919132149155446097, guid: 33d2eaace85ddba48a190cdb5bf3d4eb, type: 3}
+    m_highPoly: {fileID: 919132149155446097, guid: 33d2eaace85ddba48a190cdb5bf3d4eb, type: 3}
+    m_sprite: {fileID: 21300000, guid: 948a9235bb756e441b9a4516de5ccb26, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 1
+    m_lowPoly: {fileID: 919132149155446097, guid: b9418ec2667561b4bb04c5aec585bad0, type: 3}
+    m_highPoly: {fileID: 919132149155446097, guid: b9418ec2667561b4bb04c5aec585bad0, type: 3}
+    m_sprite: {fileID: 21300000, guid: 71619d82ee54ab942bebfae5ab705bcc, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 1
+    m_lowPoly: {fileID: 919132149155446097, guid: b004fbd23dbb72b4fa6115a63b546740, type: 3}
+    m_highPoly: {fileID: 919132149155446097, guid: b004fbd23dbb72b4fa6115a63b546740, type: 3}
+    m_sprite: {fileID: 21300000, guid: 26d2cc67ec584df43a49cb75900e324c, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 1
+    m_lowPoly: {fileID: 919132149155446097, guid: 068c1b936be25154ea12772a1f8f3123, type: 3}
+    m_highPoly: {fileID: 919132149155446097, guid: 068c1b936be25154ea12772a1f8f3123, type: 3}
+    m_sprite: {fileID: 21300000, guid: 4204617f94f1bef4dacdb10f70fed65d, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 1
+    m_lowPoly: {fileID: 919132149155446097, guid: 9d353aa4a97f5484ea2f1503b7f1ba18, type: 3}
+    m_highPoly: {fileID: 919132149155446097, guid: 9d353aa4a97f5484ea2f1503b7f1ba18, type: 3}
+    m_sprite: {fileID: 21300000, guid: ebb80cc020e072b4fb58a25f5ff2bc8a, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 1
+    m_lowPoly: {fileID: 919132149155446097, guid: ea095db43bef2784a8898e8c9325987b, type: 3}
+    m_highPoly: {fileID: 919132149155446097, guid: ea095db43bef2784a8898e8c9325987b, type: 3}
+    m_sprite: {fileID: 21300000, guid: c17cb76f8524d954fa837c5b08356b21, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 1
+    m_lowPoly: {fileID: 919132149155446097, guid: 5181521c066dd104588d05aab932ec3b, type: 3}
+    m_highPoly: {fileID: 919132149155446097, guid: 5181521c066dd104588d05aab932ec3b, type: 3}
+    m_sprite: {fileID: 21300000, guid: 874c025ec30a69e41806887514b66168, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 1
+    m_lowPoly: {fileID: 919132149155446097, guid: c1074d908bb0fb54299449864ff35029, type: 3}
+    m_highPoly: {fileID: 919132149155446097, guid: c1074d908bb0fb54299449864ff35029, type: 3}
+    m_sprite: {fileID: 21300000, guid: fc7bdb314beb0b241ab04798f267d293, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 1
+    m_lowPoly: {fileID: 919132149155446097, guid: 311cb4faae3f4c749ac7745a78183310, type: 3}
+    m_highPoly: {fileID: 919132149155446097, guid: 311cb4faae3f4c749ac7745a78183310, type: 3}
+    m_sprite: {fileID: 21300000, guid: b0fc5252224711046a217380bbc404c3, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 1
+    m_lowPoly: {fileID: 919132149155446097, guid: f34bfecb7e7cad443928c1766f693400, type: 3}
+    m_highPoly: {fileID: 919132149155446097, guid: f34bfecb7e7cad443928c1766f693400, type: 3}
+    m_sprite: {fileID: 21300000, guid: 1d4a34eb6c54adc4488c93ffca7c6cde, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 1
+    m_lowPoly: {fileID: 919132149155446097, guid: bd77cf89f7324b949b36e1bebf86cc08, type: 3}
+    m_highPoly: {fileID: 919132149155446097, guid: bd77cf89f7324b949b36e1bebf86cc08, type: 3}
+    m_sprite: {fileID: 21300000, guid: a75da0b69e50af0498d05e71d1e6504c, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 1
+    m_lowPoly: {fileID: 919132149155446097, guid: 108d0c9d3d42a204b913c6d912c816f3, type: 3}
+    m_highPoly: {fileID: 919132149155446097, guid: 108d0c9d3d42a204b913c6d912c816f3, type: 3}
+    m_sprite: {fileID: 21300000, guid: c53a8403302043841b5f76d618afadc2, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 1
+    m_lowPoly: {fileID: 919132149155446097, guid: 471949a9ca43fc148a98c98ec2c390fb, type: 3}
+    m_highPoly: {fileID: 919132149155446097, guid: 471949a9ca43fc148a98c98ec2c390fb, type: 3}
+    m_sprite: {fileID: 21300000, guid: 8bf8a36cb17672a449b62715891e9b4c, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 1
+    m_lowPoly: {fileID: 919132149155446097, guid: 656e83bebd25513408f0eade0fb7c15e, type: 3}
+    m_highPoly: {fileID: 919132149155446097, guid: 656e83bebd25513408f0eade0fb7c15e, type: 3}
+    m_sprite: {fileID: 21300000, guid: 575822857f5aef74d9a7048eaafd341f, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 1
+    m_lowPoly: {fileID: 919132149155446097, guid: 9cbc443d6dadb1545bf2150041f9780b, type: 3}
+    m_highPoly: {fileID: 919132149155446097, guid: 9cbc443d6dadb1545bf2150041f9780b, type: 3}
+    m_sprite: {fileID: 21300000, guid: 7eabd0b8caac0ed41aedd3376af0702e, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 1
+    m_lowPoly: {fileID: 919132149155446097, guid: 72c1498d05462d948b4364a09872571d, type: 3}
+    m_highPoly: {fileID: 919132149155446097, guid: 72c1498d05462d948b4364a09872571d, type: 3}
+    m_sprite: {fileID: 21300000, guid: 12ffca5cd4d6cfd4faccaaaec7b9d0e2, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  m_carsReactors:
+  - {fileID: 4523428148032307091, guid: 0ff581981c0c1d740b13f922854663a5, type: 3}
+  - {fileID: 4523428148032307091, guid: 9772ed392c14c8a48aa223e9ec69c4c4, type: 3}
+  - {fileID: 4523428148032307091, guid: 4ca42aae25c24204c8871e84a8d989cf, type: 3}
+  - {fileID: 4523428148032307091, guid: eb83bd1db5f76eb41b6af975a9f46ecc, type: 3}
+  - {fileID: 4523428148032307091, guid: b666301ec81a1784a92c205b7850c11e, type: 3}
+  - {fileID: 4523428148032307091, guid: 83c3c666695526249ae98ab815600bf7, type: 3}
+  - {fileID: 4523428148032307091, guid: 027f4bee472ad3243886c59227c80869, type: 3}
+  - {fileID: 4523428148032307091, guid: 59620644d31b8e241b4d5bb27fd2b425, type: 3}
+  - {fileID: 4523428148032307091, guid: 6bda13c378ee7ea479d5445b8b08a0ca, type: 3}
+  - {fileID: 4523428148032307091, guid: e9485773b4b3f5b4bba59a9715ade659, type: 3}
+  - {fileID: 4523428148032307091, guid: 31dc4cbcd453d744e933aa66011406bd, type: 3}
+  - {fileID: 4523428148032307091, guid: 43e8dbf856442ef4dbffe37f5e1dbd70, type: 3}
+  - {fileID: 4523428148032307091, guid: 7801a900b3572a440a8ab9857db24193, type: 3}
+  - {fileID: 4523428148032307091, guid: e59c1f292378968428899801928ccd71, type: 3}
+  - {fileID: 4523428148032307091, guid: df67ae3acc3559a45a376ce7fb66f245, type: 3}
+  - {fileID: 4523428148032307091, guid: b2b76884d9a231949ac6c952f1b4ae9d, type: 3}
+  - {fileID: 4523428148032307091, guid: c4af219260bfe72429bcf6dcf2b67928, type: 3}
+  - {fileID: 4523428148032307091, guid: 7843adaf66ad2ce4a9eabcae4d098bc1, type: 3}
+  - {fileID: 4523428148032307091, guid: 2b8b26929685bca4ebc2f2ee1441f38f, type: 3}
+  - {fileID: 4523428148032307091, guid: 4254db8a6b47a8145a3858ae8e19c0fb, type: 3}
+  m_characters:
+  - m_type: 2
+    m_lowPoly: {fileID: 433922836758859144, guid: 7367ff6bacee7604284617ce5e35074b, type: 3}
+    m_highPoly: {fileID: 433922836758859144, guid: 7367ff6bacee7604284617ce5e35074b, type: 3}
+    m_sprite: {fileID: 21300000, guid: 91c5ddce8650e68489455096268df7aa, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 2
+    m_lowPoly: {fileID: 1966726368596002336, guid: 62757e0dfb9162348afb236ac783ead4, type: 3}
+    m_highPoly: {fileID: 1966726368596002336, guid: 62757e0dfb9162348afb236ac783ead4, type: 3}
+    m_sprite: {fileID: 21300000, guid: 2539e65521e632e41880563a418eb3fc, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 2
+    m_lowPoly: {fileID: 2590362582544061283, guid: 22289480adde08a439c7cfeea0892bde, type: 3}
+    m_highPoly: {fileID: 2590362582544061283, guid: 22289480adde08a439c7cfeea0892bde, type: 3}
+    m_sprite: {fileID: 21300000, guid: 9da43f7534a89204dbebd17018675a21, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 2
+    m_lowPoly: {fileID: 122451290435416535, guid: 49d6c9087944af0469b138632297dd5c, type: 3}
+    m_highPoly: {fileID: 122451290435416535, guid: 49d6c9087944af0469b138632297dd5c, type: 3}
+    m_sprite: {fileID: 21300000, guid: 1628bc5604b62044688549f0fce7fb24, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 2
+    m_lowPoly: {fileID: 4224174801655006001, guid: 0ad3e46611fde3c45bbe08159f90bbbd, type: 3}
+    m_highPoly: {fileID: 4224174801655006001, guid: 0ad3e46611fde3c45bbe08159f90bbbd, type: 3}
+    m_sprite: {fileID: 21300000, guid: 5999e2c6d83636c4e99c0ff866a9d046, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 2
+    m_lowPoly: {fileID: 1557934343547621738, guid: 1c4a83d1c20f9fd44994441a390c96fb, type: 3}
+    m_highPoly: {fileID: 1557934343547621738, guid: 1c4a83d1c20f9fd44994441a390c96fb, type: 3}
+    m_sprite: {fileID: 21300000, guid: d3c8bad6255c49345b904569ed0b81f1, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 2
+    m_lowPoly: {fileID: 8064385129609781052, guid: 9999a71e7e8532e48a5d344ccb4a2a49, type: 3}
+    m_highPoly: {fileID: 8064385129609781052, guid: 9999a71e7e8532e48a5d344ccb4a2a49, type: 3}
+    m_sprite: {fileID: 21300000, guid: e43457bbe961a3e44bf115fb52d29bec, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 2
+    m_lowPoly: {fileID: 1953207693957496428, guid: eec46a3400b062d448080926c83e79f4, type: 3}
+    m_highPoly: {fileID: 1953207693957496428, guid: eec46a3400b062d448080926c83e79f4, type: 3}
+    m_sprite: {fileID: 21300000, guid: 245b9d1164254d741a78f77d0c2c9cc3, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 2
+    m_lowPoly: {fileID: 2158002018862060036, guid: 4d2f73add2570d54ca06aa2b29b665c6, type: 3}
+    m_highPoly: {fileID: 2158002018862060036, guid: 4d2f73add2570d54ca06aa2b29b665c6, type: 3}
+    m_sprite: {fileID: 21300000, guid: ef62e4c25749a4747a0b5235a9a728b7, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 2
+    m_lowPoly: {fileID: 5018653029533931113, guid: c8f83ae0a5dc725449bf6f68342a4432, type: 3}
+    m_highPoly: {fileID: 5018653029533931113, guid: c8f83ae0a5dc725449bf6f68342a4432, type: 3}
+    m_sprite: {fileID: 21300000, guid: 03e4fef2152671e459053b6f6530f3ae, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 2
+    m_lowPoly: {fileID: 3435817679819095342, guid: d31efec7382051d44b7f50963798f221, type: 3}
+    m_highPoly: {fileID: 3435817679819095342, guid: d31efec7382051d44b7f50963798f221, type: 3}
+    m_sprite: {fileID: 21300000, guid: 440f05ca2fa5b2f45bc67cc80d9ac1ff, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 2
+    m_lowPoly: {fileID: 9179245243264051571, guid: 04c98abcd11936342af7eb80780bc8e4, type: 3}
+    m_highPoly: {fileID: 9179245243264051571, guid: 04c98abcd11936342af7eb80780bc8e4, type: 3}
+    m_sprite: {fileID: 21300000, guid: 2dd6b9efc048755498a81ef2042824f8, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 2
+    m_lowPoly: {fileID: 7055189450021883061, guid: 1b8a1decace57a14fa9cde725cdcce72, type: 3}
+    m_highPoly: {fileID: 7055189450021883061, guid: 1b8a1decace57a14fa9cde725cdcce72, type: 3}
+    m_sprite: {fileID: 21300000, guid: 58fb0540cc2217a49811b9acc5614576, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 2
+    m_lowPoly: {fileID: 4444289381703750078, guid: 7e91abc9659685641a2126e7cbf3bf29, type: 3}
+    m_highPoly: {fileID: 4444289381703750078, guid: 7e91abc9659685641a2126e7cbf3bf29, type: 3}
+    m_sprite: {fileID: 21300000, guid: 6662f3ba7cb33b64797b449cad502ea6, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 2
+    m_lowPoly: {fileID: 3542472504934758356, guid: 990446569deb1d04ba2e9cd2d3b75f74, type: 3}
+    m_highPoly: {fileID: 3542472504934758356, guid: 990446569deb1d04ba2e9cd2d3b75f74, type: 3}
+    m_sprite: {fileID: 21300000, guid: 4ca4142efdf027e4c851f5886105545d, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 2
+    m_lowPoly: {fileID: 3454206112572638047, guid: 7b23e3bec5ec8ad41a8dfae63da98de2, type: 3}
+    m_highPoly: {fileID: 3454206112572638047, guid: 7b23e3bec5ec8ad41a8dfae63da98de2, type: 3}
+    m_sprite: {fileID: 21300000, guid: 7da2b3d324b76ce408b1a86892242b24, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 2
+    m_lowPoly: {fileID: 3860334548998300967, guid: 7ad9f412c46af344eb9b77b442a20374, type: 3}
+    m_highPoly: {fileID: 3860334548998300967, guid: 7ad9f412c46af344eb9b77b442a20374, type: 3}
+    m_sprite: {fileID: 21300000, guid: 471a8331dfa853043bb3f580b7f69c2e, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 2
+    m_lowPoly: {fileID: 7553082185986660393, guid: 6b1f1586e77459e4795e5d6001cfd62c, type: 3}
+    m_highPoly: {fileID: 7553082185986660393, guid: 6b1f1586e77459e4795e5d6001cfd62c, type: 3}
+    m_sprite: {fileID: 21300000, guid: d8884de2be91b1f468e5d1dd18031bac, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 2
+    m_lowPoly: {fileID: 2749518687317015927, guid: b221b6329ade3784f9c434a8d1767122, type: 3}
+    m_highPoly: {fileID: 2749518687317015927, guid: b221b6329ade3784f9c434a8d1767122, type: 3}
+    m_sprite: {fileID: 21300000, guid: 161bbd49d0de1a94297541312b1bfcda, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  - m_type: 2
+    m_lowPoly: {fileID: 5723934386820917844, guid: 32559cefd6924a642960bc3a689d33d6, type: 3}
+    m_highPoly: {fileID: 5723934386820917844, guid: 32559cefd6924a642960bc3a689d33d6, type: 3}
+    m_sprite: {fileID: 21300000, guid: b4a55374c2e733b4294a63a20fde1d7e, type: 3}
+    m_displayName: 
+    m_nameMenu: {fileID: 0}
+    m_nameInGame: {fileID: 0}
+  m_animations:
+  - m_type: 3
+    m_lowPoly: {fileID: 0}
+    m_highPoly: {fileID: 0}
+    m_sprite: {fileID: 0}
+    m_displayName: Boxe
+    m_nameMenu: {fileID: 7400000, guid: 242231315d9f9534b9cc6d5f5701fb00, type: 2}
+    m_nameInGame: {fileID: 7400000, guid: 342d1f2654610734a8b88dccf5fcac37, type: 2}
+  - m_type: 3
+    m_lowPoly: {fileID: 0}
+    m_highPoly: {fileID: 0}
+    m_sprite: {fileID: 0}
+    m_displayName: Head Bang
+    m_nameMenu: {fileID: 7400000, guid: 55a9918819962134f800964c3a7642ad, type: 2}
+    m_nameInGame: {fileID: 7400000, guid: 0d28ae235aeaf9c478983faea7523dc2, type: 2}
+  - m_type: 3
+    m_lowPoly: {fileID: 0}
+    m_highPoly: {fileID: 0}
+    m_sprite: {fileID: 0}
+    m_displayName: Jiggle
+    m_nameMenu: {fileID: 7400000, guid: c990ca2e7df550a4b94ce4bd82ebadae, type: 2}
+    m_nameInGame: {fileID: 7400000, guid: 4c3edbb2bf9a834429f822770e41e9a1, type: 2}
+  - m_type: 3
+    m_lowPoly: {fileID: 0}
+    m_highPoly: {fileID: 0}
+    m_sprite: {fileID: 0}
+    m_displayName: Jump
+    m_nameMenu: {fileID: 7400000, guid: d881669d931c2414fabb2cef21e818cc, type: 2}
+    m_nameInGame: {fileID: 7400000, guid: 01ce4ce83840b8945af0abdb9f6efcb1, type: 2}
+  - m_type: 3
+    m_lowPoly: {fileID: 0}
+    m_highPoly: {fileID: 0}
+    m_sprite: {fileID: 0}
+    m_displayName: Scratch
+    m_nameMenu: {fileID: 7400000, guid: 6d01db58c35e71241b5239b342ef7726, type: 2}
+    m_nameInGame: {fileID: 7400000, guid: a3e90ee3512efef40b96fb3bc07b71f0, type: 2}
+  - m_type: 3
+    m_lowPoly: {fileID: 0}
+    m_highPoly: {fileID: 0}
+    m_sprite: {fileID: 0}
+    m_displayName: Spin
+    m_nameMenu: {fileID: 7400000, guid: 75886e0435c8c504e83eaec31cc675de, type: 2}
+    m_nameInGame: {fileID: 7400000, guid: f71740834461cb4438f4b0e4fe1a1be5, type: 2}
+  - m_type: 3
+    m_lowPoly: {fileID: 0}
+    m_highPoly: {fileID: 0}
+    m_sprite: {fileID: 0}
+    m_displayName: Waddle
+    m_nameMenu: {fileID: 7400000, guid: 120c619c3704a0c4baa01f55525fd087, type: 2}
+    m_nameInGame: {fileID: 7400000, guid: fa663e25bdcf96149a5300d03123a2ff, type: 2}
+  - m_type: 3
+    m_lowPoly: {fileID: 0}
+    m_highPoly: {fileID: 0}
+    m_sprite: {fileID: 0}
+    m_displayName: Wiggle
+    m_nameMenu: {fileID: 7400000, guid: 8802e04b4cbc41c4789051eee4928837, type: 2}
+    m_nameInGame: {fileID: 7400000, guid: 92597c156a6eceb40bf67f0745749615, type: 2}
+  m_materials:
+  - {fileID: 2100000, guid: 94b0c7fc2f3678f459432ea13b88c021, type: 2}
+  - {fileID: 2100000, guid: 4a0e4f3d2eecd2a4997afa4a819027e5, type: 2}
+  - {fileID: 2100000, guid: c0bf8ed53c247f24d86ee1cf9a7321ef, type: 2}
+  - {fileID: 2100000, guid: c5ec7bfa1130ba64baf466732132737e, type: 2}
+  - {fileID: 2100000, guid: a1f48328fad0a604ca62b10dc31dea22, type: 2}
+  - {fileID: 2100000, guid: 441bafc1381833948ada467b7d18aa94, type: 2}
+  m_teamModeDuoMaterials:
+  - {fileID: 2100000, guid: ffda74bb1d660df49b60887f27224cd2, type: 2}
+  - {fileID: 2100000, guid: e433912a5fb47b94991c159ed0c93691, type: 2}
+  m_AIMaterial: {fileID: 2100000, guid: e9a1cdc7c909505469b737b0bd8968b2, type: 2}

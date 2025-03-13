@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1992851464005721871
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2501871512698833263}
+  - component: {fileID: 5868363708687878643}
+  - component: {fileID: 3844751711144686127}
+  m_Layer: 0
+  m_Name: pref_CaptureTheFlagManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2501871512698833263
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1992851464005721871}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5868363708687878643
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1992851464005721871}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fc00eeb8e269d141903ba1feb00ee33, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  syncDirection: 0
+  syncMode: 0
+  syncInterval: 0.1
+  m_gameModeId: 3
+  _onGameSceneLoaded: {fileID: 11400000, guid: f63d1f99ccc158648adb800df594e754, type: 2}
+  _onRoundStart: {fileID: 11400000, guid: 3da457d0c0dcebe479fe8a2aadd9db20, type: 2}
+  _onRoundFinished: {fileID: 11400000, guid: 4051a09f8cb2e564db28b3d66e607824, type: 2}
+  _onCollisionWithPlayer: {fileID: 11400000, guid: 7a596b25d79726942b992a0d827a26b4, type: 2}
+  _data: {fileID: 11400000, guid: aa2938ed74429fd46b2dbc5cdf2a6fcc, type: 2}
+  _flagBases:
+  - {fileID: 0}
+  - {fileID: 0}
+  _onPlayerDie: {fileID: 11400000, guid: 4fe46239c4a70b14cbd2d4389b3cf0d4, type: 2}
+  _onPlayerTakeFlag: {fileID: 11400000, guid: f305b1f63c74d424ba0719ea989c94e2, type: 2}
+  _onFlagReset: {fileID: 11400000, guid: ac068aa7733e0eb458c3e6883331de69, type: 2}
+  _ssData: {fileID: 11400000, guid: d08b7dc2ce7eb6243ad746978aea923f, type: 2}
+  _onScreenShake: {fileID: 11400000, guid: e6a3c4fcd28e21943a84473f3a005397, type: 2}
+--- !u!114 &3844751711144686127
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1992851464005721871}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b91ecbcc199f4492b9a91e820070131, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneId: 0
+  _assetId: 30109160
+  serverOnly: 0
+  visible: 0
+  hasSpawned: 0

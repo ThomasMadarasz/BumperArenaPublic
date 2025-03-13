@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070c61f3f9a6054448024774e9bff69c, type: 3}
+  m_Name: Fireball_SFXData
+  m_EditorClassIdentifier: 
+  _sfx:
+  - m_clip: {fileID: 8300000, guid: 41703de14b443864b80042dc5d9d324c, type: 3}
+    m_volume: 1
+    _group: {fileID: -6123720315952312377, guid: 8ebce5be84899734b9e12723f2fc30e5, type: 2}
+  - m_clip: {fileID: 8300000, guid: a21e97dd2fc0e9147a6df768f22b9819, type: 3}
+    m_volume: 1
+    _group: {fileID: -6123720315952312377, guid: 8ebce5be84899734b9e12723f2fc30e5, type: 2}
+  - m_clip: {fileID: 8300000, guid: 249ee43860162e5469ddf4a322e1228c, type: 3}
+    m_volume: 1
+    _group: {fileID: -6123720315952312377, guid: 8ebce5be84899734b9e12723f2fc30e5, type: 2}
+  - m_clip: {fileID: 8300000, guid: 045e7a1f40c3bba4bbfa10f37dda5bac, type: 3}
+    m_volume: 1
+    _group: {fileID: -6123720315952312377, guid: 8ebce5be84899734b9e12723f2fc30e5, type: 2}

@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600b90d20ac3e5c4ba3904761d3f7000, type: 3}
+  m_Name: ModeDataBuild_09_06
+  m_EditorClassIdentifier: 
+  m_gameModesData:
+  - m_logicIndex: 0
+    m_name: Air hockey
+    m_maps:
+    - m_logicIndex: 0
+      m_logicName: LD_H_Factory_MovingWallBorder
+      m_displayName: LD_H_Factory_MovingWallBorder
+      m_image: {fileID: 0}
+    - m_logicIndex: 1
+      m_logicName: LD_H_RooftopArena_Hammer
+      m_displayName: LD_H_RooftopArena_Hammer
+      m_image: {fileID: 0}
+    - m_logicIndex: 2
+      m_logicName: LD_H_Galaxy_CentralVoid
+      m_displayName: LD_H_Galaxy_CentralVoid
+      m_image: {fileID: 0}
+    - m_logicIndex: 3
+      m_logicName: LD_H_Spaceship_Rail_V3
+      m_displayName: LD_H_Spaceship_Rail_V3
+      m_image: {fileID: 0}
+    m_teamMode: 2
+    m_howToPlay: HowToPlay_Hockey
+  - m_logicIndex: 1
+    m_name: Air hockey
+    m_maps:
+    - m_logicIndex: 0
+      m_logicName: LD_H_Factory_MovingWallBorder
+      m_displayName: LD_H_Factory_MovingWallBorder
+      m_image: {fileID: 0}
+    - m_logicIndex: 1
+      m_logicName: LD_H_RooftopArena_Hammer
+      m_displayName: LD_H_RooftopArena_Hammer
+      m_image: {fileID: 0}
+    - m_logicIndex: 2
+      m_logicName: LD_H_Galaxy_CentralVoid
+      m_displayName: LD_H_Galaxy_CentralVoid
+      m_image: {fileID: 0}
+    - m_logicIndex: 3
+      m_logicName: LD_H_Spaceship_Rail_V3
+      m_displayName: LD_H_Spaceship_Rail_V3
+      m_image: {fileID: 0}
+    m_teamMode: 2
+    m_howToPlay: HowToPlay_Hockey
+  - m_logicIndex: 2
+    m_name: Race
+    m_maps:
+    - m_logicIndex: 0
+      m_logicName: LD_R_FactoryV2
+      m_displayName: LD_R_FactoryV2
+      m_image: {fileID: 0}
+    - m_logicIndex: 1
+      m_logicName: LD_R_Galaxy
+      m_displayName: LD_R_Galaxy
+      m_image: {fileID: 0}
+    - m_logicIndex: 2
+      m_logicName: LD_R_Galaxy_CentralVoid
+      m_displayName: LD_R_Galaxy_CentralVoid
+      m_image: {fileID: 0}
+    - m_logicIndex: 3
+      m_logicName: LD_R_Galaxy_YinYangV2
+      m_displayName: LD_R_Galaxy_YinYangV2
+      m_image: {fileID: 0}
+    - m_logicIndex: 4
+      m_logicName: LD_R_RooftopArenaV2
+      m_displayName: LD_R_RooftopArenaV2
+      m_image: {fileID: 0}
+    - m_logicIndex: 5
+      m_logicName: LD_R_SpaceshipV3
+      m_displayName: LD_R_SpaceshipV3
+      m_image: {fileID: 0}
+    m_teamMode: 1
+    m_howToPlay: HowToPlay_Race
+  - m_logicIndex: 3
+    m_name: Race
+    m_maps:
+    - m_logicIndex: 0
+      m_logicName: LD_R_FactoryV2
+      m_displayName: LD_R_FactoryV2
+      m_image: {fileID: 0}
+    - m_logicIndex: 1
+      m_logicName: LD_R_Galaxy
+      m_displayName: LD_R_Galaxy
+      m_image: {fileID: 0}
+    - m_logicIndex: 2
+      m_logicName: LD_R_Galaxy_CentralVoid
+      m_displayName: LD_R_Galaxy_CentralVoid
+      m_image: {fileID: 0}
+    - m_logicIndex: 3
+      m_logicName: LD_R_Galaxy_YinYangV2
+      m_displayName: LD_R_Galaxy_YinYangV2
+      m_image: {fileID: 0}
+    - m_logicIndex: 4
+      m_logicName: LD_R_RooftopArenaV2
+      m_displayName: LD_R_RooftopArenaV2
+      m_image: {fileID: 0}
+    - m_logicIndex: 5
+      m_logicName: LD_R_SpaceshipV3
+      m_displayName: LD_R_SpaceshipV3
+      m_image: {fileID: 0}
+    m_teamMode: 1
+    m_howToPlay: HowToPlay_Race

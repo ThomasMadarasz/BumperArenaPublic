@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1911648771883847391
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1911648771883847389}
+  - component: {fileID: 1911648771883847388}
+  m_Layer: 0
+  m_Name: MenuImporter
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1911648771883847389
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1911648771883847391}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1911648771883847388
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1911648771883847391}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 266cd09c84c51c7498d5304c6b2cea92, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _runtimeAnimator: {fileID: 9100000, guid: dae2d06b15f03534daf3b41bd51bbd6e, type: 2}
+  _characters:
+  - {fileID: 919132149155446097, guid: fc60854d689afe74285e55dec1a2aeb7, type: 3}
+  - {fileID: 919132149155446097, guid: 2a04d56873d542643986c42b8de38dfc, type: 3}
+  - {fileID: 919132149155446097, guid: d3c760986a27f754894f59fbc42ac0c9, type: 3}
+  - {fileID: 919132149155446097, guid: fee80722ecf492e428d395a1147947f1, type: 3}
+  - {fileID: 919132149155446097, guid: 0309ebc7080ab4646ac54843f7ed7737, type: 3}
+  - {fileID: 919132149155446097, guid: 1e0ae25a7fe778b4ba5e8320ad90b0fb, type: 3}
+  - {fileID: 919132149155446097, guid: 876c91da13004ed41a95590777bc32e8, type: 3}
+  - {fileID: 919132149155446097, guid: 1af7ee340364b5048bdc038db04bd3e5, type: 3}
+  - {fileID: 919132149155446097, guid: 544444fffa98f204c810b031189f4439, type: 3}
+  - {fileID: 919132149155446097, guid: 03ada8970ff37d0498e74485676e64f3, type: 3}
+  - {fileID: 919132149155446097, guid: 6d969934024baab43a3d601f3e9722f4, type: 3}
+  - {fileID: 919132149155446097, guid: 19c450e38081edf4e8d9fc3ec8dce2da, type: 3}
+  - {fileID: 919132149155446097, guid: c633b9eca11174441837043ae8e4a5f9, type: 3}
+  - {fileID: 919132149155446097, guid: d9bdbb3ae21d9d24589d261d793a6c88, type: 3}
+  - {fileID: 919132149155446097, guid: b19607f3281f43c4fbc78f84f35b616c, type: 3}
+  - {fileID: 919132149155446097, guid: 4f6d68621a24cb242b635c0277e3fa9c, type: 3}
+  - {fileID: 919132149155446097, guid: c026684b106b7d943938bd01a4ec6625, type: 3}
+  - {fileID: 919132149155446097, guid: 44c7b448b36c421408fef9d88e98df16, type: 3}
+  - {fileID: 919132149155446097, guid: fae4227eaec31aa47915d4a3e394b332, type: 3}
+  - {fileID: 919132149155446097, guid: e6d55b0a27c115640bad647ce398f6a5, type: 3}
+  _overrideAnimatorPath: Assets/_/Content/Art/Animations/OverrideController/Menu
+  _meshPath: Assets/_/Content/Art/Meshes/Character/Menu

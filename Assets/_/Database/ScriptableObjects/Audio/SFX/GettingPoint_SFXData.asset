@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070c61f3f9a6054448024774e9bff69c, type: 3}
+  m_Name: GettingPoint_SFXData
+  m_EditorClassIdentifier: 
+  _sfx:
+  - m_clip: {fileID: 8300000, guid: f360a16b404a5c04db5b5dcdfb34ee53, type: 3}
+    m_volume: 1
+    _group: {fileID: -6123720315952312377, guid: 8ebce5be84899734b9e12723f2fc30e5, type: 2}
+  - m_clip: {fileID: 8300000, guid: ad60246bec8fab14ca9718048edacee8, type: 3}
+    m_volume: 1
+    _group: {fileID: -6123720315952312377, guid: 8ebce5be84899734b9e12723f2fc30e5, type: 2}
+  - m_clip: {fileID: 8300000, guid: 1b289329fa00c9e4989436cd8afd5a93, type: 3}
+    m_volume: 1
+    _group: {fileID: -6123720315952312377, guid: 8ebce5be84899734b9e12723f2fc30e5, type: 2}
+  - m_clip: {fileID: 8300000, guid: 7f9d043d8cf01724d94cd69848302f55, type: 3}
+    m_volume: 1
+    _group: {fileID: -6123720315952312377, guid: 8ebce5be84899734b9e12723f2fc30e5, type: 2}

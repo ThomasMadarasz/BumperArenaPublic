@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/_/Database/Prefabs/Debug.meta
+guid: af9bb4e58d3208f44b56410a2a8cf085
+========
+guid: 5ac2cffb19257644ab68f2670e5fafc9
+>>>>>>>> fcf56432e3b072a52d47c495cfc05f5c3e5f0229:Assets/_/Database/ScriptableObjects/PlayerControllerData.meta
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

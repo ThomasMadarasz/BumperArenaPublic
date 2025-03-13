@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 543d076b85d0d19428e07b1ec02a0633, type: 3}
+  m_Name: AIData
+  m_EditorClassIdentifier: 
+  m_directionInputsStep: 10
+  m_anticipationOffset: 1.5
+  m_maxAngleToConsiderAPlayerAsAPotentialTarget: 90
+  m_raycastNumber: 16
+  m_raycastMaxAngle: 80
+  m_raycastBaseAngleOffset: 0
+  m_longestRaycastDistance: 10
+  m_shortestRaycastDistance: 2
+  m_layerMask:
+    serializedVersion: 2
+    m_Bits: 759

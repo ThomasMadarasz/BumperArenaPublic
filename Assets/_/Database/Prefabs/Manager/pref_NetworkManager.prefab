@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8576792168244814896
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8576792168244814899}
+  - component: {fileID: 8576792168244814898}
+  - component: {fileID: -7931248079350553922}
+  m_Layer: 0
+  m_Name: pref_NetworkManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8576792168244814899
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8576792168244814896}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8576792168244814898
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8576792168244814896}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c849205a7379f54387d1b2fe64fd8c5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dontDestroyOnLoad: 1
+  runInBackground: 1
+  autoStartServerBuild: 0
+  autoConnectClientBuild: 0
+  sendRate: 30
+  offlineScene: Assets/_/Database/Scenes/MainMenu.unity
+  onlineScene: 
+  transport: {fileID: -7931248079350553922}
+  networkAddress: localhost
+  maxConnections: 4
+  authenticator: {fileID: 0}
+  playerPrefab: {fileID: 3819978081283934166, guid: b1048404b3e071846aa7cb057448e900, type: 3}
+  autoCreatePlayer: 1
+  playerSpawnMethod: 1
+  spawnPrefabs:
+  - {fileID: 3819978081283934166, guid: 13d75897fb2d3994887811035beaa9b2, type: 3}
+  - {fileID: 2491195493325386017, guid: ee918c3f680c82c43aae2ec82b8d80cb, type: 3}
+  timeInterpolationGui: 0
+  _roundResultSceneName: Scoreboard&Winner
+  _mapVoteSceneName: MapVote
+  _playerLobbyPrefab: {fileID: 3819978081283934166, guid: 13d75897fb2d3994887811035beaa9b2, type: 3}
+  _netPlayerPrefab: {fileID: 2525240269981079967, guid: ee918c3f680c82c43aae2ec82b8d80cb, type: 3}
+  _onGameStart: {fileID: 11400000, guid: f69d9c02e44642c45b52309ca1160d76, type: 2}
+  _onRoundResultStart: {fileID: 11400000, guid: 16ae263fb1a34284e8783068abdf9a74, type: 2}
+  _onMapVoteStart: {fileID: 11400000, guid: 0846f72a258623444a58bf3ac3c3afa7, type: 2}
+  _onLoadSceneRequired: {fileID: 11400000, guid: 81b0cac5ee3446540b2b9b9b5742ad80, type: 2}
+  _onAllPlayerAsSceneLoaded: {fileID: 11400000, guid: 5b7b812c603d9224fa4b2e7cea3b1c4c, type: 2}
+  _onSetupRoundResultScene: {fileID: 11400000, guid: 90e82e1c09852a04c85c689c7f91ff7b, type: 2}
+  _onStartSpline: {fileID: 11400000, guid: 11a8b9fe6a033b74aa0db1b55edfea7a, type: 2}
+  _onManagersReady: {fileID: 11400000, guid: 6fb21e9ae1214444fa6af8fcb268cb1e, type: 2}
+  _onStopMainMenuMusic: {fileID: 11400000, guid: a1f1fa683232c7b4ab646c9aa7f7e690, type: 2}
+  _onStartMainMenuMusic: {fileID: 11400000, guid: 1c8696a4f87099a4f96d6da6e397ed14, type: 2}
+  _onStopMusic: {fileID: 11400000, guid: 6264be72c56a98c46a6983d2fa840834, type: 2}
+  _backToMainMenu: {fileID: 11400000, guid: 5caf2181d5800204398b511b2b7df106, type: 2}
+  _onPlayerJoinLobby: {fileID: 11400000, guid: bacbd4d35a887374b90a2e330bb4a4c9, type: 2}
+  _onPlayerLeaveLobby: {fileID: 11400000, guid: 240d3d73f9c17fc4998c7c781a5569e5, type: 2}
+  _playerFeedbacks: {fileID: 11400000, guid: 7fe9b422be55a9f4db9060117ab1396a, type: 2}
+  _durationLoadScene: {fileID: 11400000, guid: 057239401f5e91e4397ecc549ba02980, type: 2}
+  _onFadeIn: {fileID: 11400000, guid: 902a08e1d9609e44086d986f9ce48736, type: 2}
+  _onFadeOut: {fileID: 11400000, guid: 34910c860bfd004488539a7d75d43785, type: 2}
+  _timeOnLoadingScreen: 3
+--- !u!114 &-7931248079350553922
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8576792168244814896}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b0fecffa3f624585964b0d0eb21b18e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Port: 7777
+  DualMode: 1
+  NoDelay: 1
+  Interval: 10
+  Timeout: 10000
+  FastResend: 2
+  SendWindowSize: 4096
+  ReceiveWindowSize: 4096
+  MaxRetransmit: 40
+  MaximizeSocketBuffers: 1
+  ReliableMaxMessageSize: 298449
+  UnreliableMaxMessageSize: 1199
+  debugLog: 0
+  statisticsGUI: 0
+  statisticsLog: 0

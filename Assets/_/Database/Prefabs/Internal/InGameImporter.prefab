@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7084561620063811973
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7084561620063811971}
+  - component: {fileID: 7084561620063811972}
+  m_Layer: 0
+  m_Name: InGameImporter
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7084561620063811971
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7084561620063811973}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7084561620063811972
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7084561620063811973}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 266cd09c84c51c7498d5304c6b2cea92, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _runtimeAnimator: {fileID: 9100000, guid: 3f3d7107ccda98042b1af72f557dd560, type: 2}
+  _characters:
+  - {fileID: 919132149155446097, guid: e95c71d0d124c4b4f88a287938a2f175, type: 3}
+  - {fileID: 919132149155446097, guid: 959d01f7945f18640a1acbda67766d23, type: 3}
+  - {fileID: 919132149155446097, guid: 14e0f54a2384a164db80fd0b88a080b3, type: 3}
+  - {fileID: 919132149155446097, guid: 61570fa0464fca5449c734608465e1ff, type: 3}
+  - {fileID: 919132149155446097, guid: 850847ed6ac6b1c46b7afeeb0f25d7c6, type: 3}
+  - {fileID: 919132149155446097, guid: fce79639edcecfc40afc8036f2547e7f, type: 3}
+  - {fileID: 919132149155446097, guid: 8bd1ed3e4cf2af24c9610acaeabd50d3, type: 3}
+  - {fileID: 919132149155446097, guid: 9d0b1a7c077313544affea9456aa874b, type: 3}
+  - {fileID: 919132149155446097, guid: e0b3ac319e102484dad143d6df7440e3, type: 3}
+  - {fileID: 919132149155446097, guid: d2ce5159b8250394989fc91a9f979214, type: 3}
+  - {fileID: 919132149155446097, guid: 190b0e5fc01de0b4a94625a4261c1cfd, type: 3}
+  - {fileID: 919132149155446097, guid: fe2ec19182d6d2a4c961ca4bf91131a3, type: 3}
+  - {fileID: 919132149155446097, guid: 9b4c9c6d7b1b42c49b5a32349c3e9506, type: 3}
+  - {fileID: 919132149155446097, guid: 10f90009aec1c3f4eaeb1ec0217e72c0, type: 3}
+  - {fileID: 919132149155446097, guid: 12f2476d25a1edf49a954fb8fb7fdcb0, type: 3}
+  - {fileID: 919132149155446097, guid: 671f075e1002b52489aecac45fc43652, type: 3}
+  - {fileID: 919132149155446097, guid: 7d5a0b432208e5942a29ebb4eb1aa10e, type: 3}
+  - {fileID: 919132149155446097, guid: 9a6a5241fb82dbb4db6ce0559d826cf2, type: 3}
+  - {fileID: 919132149155446097, guid: 913562506b5ea43468d5233f45fec0a8, type: 3}
+  - {fileID: 919132149155446097, guid: fdf370c4979c1fe4b92955abf0ed4d55, type: 3}
+  _overrideAnimatorPath: Assets/_/Content/Art/Animations/OverrideController/Ingame
+  _meshPath: Assets/_/Content/Art/Meshes/Character/Ingame

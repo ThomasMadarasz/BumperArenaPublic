@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070c61f3f9a6054448024774e9bff69c, type: 3}
+  m_Name: Bump_SFXData
+  m_EditorClassIdentifier: 
+  _sfx:
+  - m_clip: {fileID: 8300000, guid: 2efa3625cc7f7ee45a204bd52a54f4b7, type: 3}
+    m_volume: 0.7
+    _group: {fileID: -6123720315952312377, guid: 8ebce5be84899734b9e12723f2fc30e5, type: 2}
+  - m_clip: {fileID: 8300000, guid: 271286fc2995e3b4ab808234ac1c104b, type: 3}
+    m_volume: 0.7
+    _group: {fileID: -6123720315952312377, guid: 8ebce5be84899734b9e12723f2fc30e5, type: 2}
+  - m_clip: {fileID: 8300000, guid: 0f3ecd914916f9148ba654f546683a87, type: 3}
+    m_volume: 0.7
+    _group: {fileID: -6123720315952312377, guid: 8ebce5be84899734b9e12723f2fc30e5, type: 2}
+  - m_clip: {fileID: 8300000, guid: bf78160adef6d504f870688adc2b2d7f, type: 3}
+    m_volume: 0.7
+    _group: {fileID: -6123720315952312377, guid: 8ebce5be84899734b9e12723f2fc30e5, type: 2}
