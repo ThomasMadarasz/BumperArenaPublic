@@ -1,6 +1,6 @@
 # BumperArena
 
-This repository contains a copy of some of the project files for Bumper Arena, a game developed by Firestarter Games.
+This repository contains a copy of some of the project files for Bumper Arena, a game developed by Firestarter Games using Unity and Csharp.
 
 The sole purpose of this repository is to showcase my work for hiring purposes. You are allowed to browse the code, but not to modify or use it.
 
